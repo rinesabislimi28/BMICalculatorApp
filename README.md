@@ -45,11 +45,22 @@ If weight = 70 kg and height = 1.75 m
 
 2. Start Expo development server
     ```bash
-    npm start
+    npx expo start
 
-3. Run on device or emulator
+3. Alternative tunnel mode (for device testing over 
+the internet)
+    ```bash
+    npx expo start --tunnel
+
+4. Install web support (optional)
+    ```bash
+    npx expo install react-dom react-native-web
+
+5. Run on device or emulator
 - 📱 Scan the QR code with Expo Go (iOS / Android)
 - 💻 Or press w to open the web version
+
+---
 
 🧠 Technologies Used
 - React Native,
@@ -57,6 +68,7 @@ If weight = 70 kg and height = 1.75 m
 - expo-linear-gradient,
 - Animated API (fade + scale transitions)
 
+---
 
 🧩 Folder Structure
 - App.js
