@@ -18,35 +18,14 @@ The Body Mass Index is calculated using the standard formula:BMI = weight (kg) /
 
 ## Health Categories and Ranges
 
-Category
+- Category
+- BMI Range
 
-BMI Range
-
-Color
-
-Underweight
-
-< 18.5
-
-Blue
-
-Normal Weight
-
-18.5 – 24.9
-
-Green
-
-Overweight
-
-25.0 – 29.9
-
-Yellow
-
-Obese
-
->= 30.0
-
-Red
+- Color -> 
+    - Underweight < 18.5 ->Blue
+    - Normal Weight (18.5 – 24.9)-> Green
+    - Overweight (25.0 – 29.9)-> Yellow
+    - Obese >= 30.0 -> Red
 
 ---
 
